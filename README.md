@@ -47,7 +47,7 @@ Create a concise, stakeholder-friendly presentation summarizing the entire proje
 
 1. **Clone the repository**
    ```bash
-https://github.com/ArtiManral/Customer_Shopping_Trend_Analysis.git
+    https://github.com/ArtiManral/Customer_Shopping_Trend_Analysis.git
    ```
 2. **Open Customer_Shopping_Behavior_Analysis.ipynb notebook**
 
